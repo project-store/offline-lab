@@ -1,0 +1,8 @@
+/*.iml
+/.idea
+/offline-lab-api/target
+/offline-lab-service/target
+/offline-lab-web/target
+/offline-lab-api/offline-lab-api.iml
+/offline-lab-service/offline-lab-service.iml
+/offline-lab-web/offline-lab-web.iml
